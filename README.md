@@ -112,29 +112,3 @@ CompileChandra/
 
 <hr/>
 
-<h2 id="media--screenshots">Media &amp; Screenshots</h2>
-<ul>
-  <li><b>Demo GIF:</b><br/>
-    <img src="Media%20Resources/outputgif.gif" width="650" alt="Demo"/>
-  </li>
-  <li><b>Sample Source Code:</b><br/>
-    <img src="Media%20Resources/mysourcecode.png" width="500" alt="Source Code"/>
-  </li>
-  <li><b>Output Console:</b><br/>
-    <img src="Media%20Resources/outputconsole.png" width="500" alt="Output Console"/>
-  </li>
-  <li><b>Output File:</b><br/>
-    <img src="Media%20Resources/outputfile.png" width="650" alt="Output File"/>
-  </li>
-</ul>
-
-<hr/>
-
-<h2 id="license">License</h2>
-<p>This project is for educational purposes. See <b>LICENSE</b> if present.</p>
-
-<hr/>
-
-<p align="center"><b>Enjoy learning and experimenting with compiler technology!</b></p>
-
-    
