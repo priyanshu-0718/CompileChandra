@@ -1,4 +1,4 @@
-<h1 align ="center"> Lexical Analyzer for C++ written in C++.</h1>
+<h1 align ="center"> Lexical Analyzer</h1>
 
 <h2> Table of Contents: </h2>
 
